@@ -4,6 +4,7 @@ Beginning February 2021, the group meets virtually (at least for now until the e
 Students, staff, and faculty of UPenn at any level of skill are welcome to PennMGIS Club.
 To join the group and receive the link to the zoom meeting, register at:  https://libcal.library.upenn.edu/event/7518542 ....
 Join the Slack! https://join.slack.com/t/upenn-czz6265/shared_invite/zt-mqcpcyu9-h1nHKDCO9p209nqjDzYE9g (Use your upenn email and tell your friends and colleagues).
+Libguide: https://guides.library.upenn.edu/mapping/PennMGIS
 <!--
 **PennMGIS/PennMGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
