@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mapping & GIS Club 👋
 The Mapping & GIS club (PennMGIS) presented by Research Data & Digital Scholarship team at the Penn Libraries is a group that meets to discuss, learn, and collaborate on topics and projects related to mapping, geospatial data processing, visualization, and analysis tools through hands-on tutorials, workshops, and presentations.
 Beginning February 2021, the group meets virtually (at least for now until the end of COVID-19 pandemic) via Zoom regularly on the third Thursday of the month from 3pm - 5pm. The first hour will feature workshops, talks, and discussions, and the second hour will be reserved for co-working and collaborative project work.
 Students, staff, and faculty of UPenn at any level of skill are welcome to PennMGIS Club.
