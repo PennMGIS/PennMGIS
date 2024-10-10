@@ -6,11 +6,11 @@ Students, staff, and faculty of UPenn at any level of skill are welcome to PennM
 
 ### **Join Club**
 
-To join the club and receive the link to the zoom meeting, register at:  https://libcal.library.upenn.edu/event/7518542 
+To join the club, register: <a href= "https://upenn.libwizard.com/f/PennMGIS"> here </a>
 
-Join the Slack! https://join.slack.com/t/upenn-czz6265/shared_invite/zt-mqcpcyu9-h1nHKDCO9p209nqjDzYE9g (Use your upenn email and tell your friends and colleagues).
+Join the Slack! <a href= "https://join.slack.com/t/upenn-czz6265/shared_invite/zt-mqcpcyu9-h1nHKDCO9p209nqjDzYE9g"> here (Use your upenn email and tell your friends and colleagues). </a>
 
-Checkout Libguide: https://guides.library.upenn.edu/mapping/PennMGIS
+Checkout Libguide: <a href= "https://guides.library.upenn.edu/c.php?g=1321452&p=9722932"> here</a> 
 <!--
 **PennMGIS/PennMGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
